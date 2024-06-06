@@ -1,5 +1,5 @@
 
-# Script para adcionar 1 milhão de usuários em uma tabela com python e mysql.
+# Script python para adicionar 1 milhão de usuário a um banco de dados(mysql)
 
 Esse script foi proposto em uma aula de banco de dados. Foi proposto criar um script em qualquer linguagem que adicionasse esse montante.
 
